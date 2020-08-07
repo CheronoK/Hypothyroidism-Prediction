@@ -1,1 +1,1 @@
-# Hypothyroidsm-Prediction-IP
+# Hypothyroidism-Prediction-IP
