@@ -8,19 +8,33 @@ The project comprises of building models that determine whether or not the patie
 The following are the steps taken to implement the solution :
 
 Define the question, the metric for success, the context, experimental design taken.
+
 Read and explore the given dataset.
+
 Define the appropriateness of the available data to answer the given question.
+
 Find and deal with outliers, anomalies, and missing data within the dataset.
+
 Perform univariate, bivariate and multivariate analysis recording our observations.
+
 Building Decision Tree models using 2 out of the 3 advanced models.
+
 Optimizing the models.
+
 Identifying which of the 2 models is the most trusted
+
 Using the trusted model to select the most important features that are impactful in prediction.
+
 Building Support Vector Machine Models using the linear, polynomial and the radial basic function.
+
 Picking the kernel that performs the best and also tune the parameters t improve the performance of the models.
+
 Visualizing the model using any of the 2 features.
+
 Use the best performing kernel together with the tuned hyperparameters and predict using aditional features.
+
 Compare the model with the feauters version.
+
 Challenge our solution and give recommendations as to how we could improve the model performance.
 
 ## Usage
